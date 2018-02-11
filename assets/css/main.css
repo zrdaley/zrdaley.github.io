@@ -2068,7 +2068,7 @@
 			}
 
 			.main > .content.style2 {
-				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #fce3eb, #d6bcc4, #d1d1d1);
+				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #a9baaa, #b3ccb5, #d1d1d1);
 			}
 
 			.main > .content.style3 {

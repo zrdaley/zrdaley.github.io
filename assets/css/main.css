@@ -1313,12 +1313,18 @@
 		width: device-width;
 	}
 
+	html { 
+		background: url("../../images/header.jpg") no-repeat center center fixed; 
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}
+
 	body {
-		background: #F8F8F8;
 		font-family: 'Roboto', sans-serif;
 		font-weight: 300;
 		font-size: 17pt;
-		line-height: 1.75em;
 		color: #888;
 		-webkit-text-stroke: 0.1px;
 	}
@@ -1997,11 +2003,10 @@
 	#header {
 		position: relative;
 		margin: 0;
-		background-image: url("images/overlay.png"), url("../../images/header.jpg");
 		background-size: auto, cover;
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
-		padding: 14em 0 14em 0;
+		/* padding: 14em 0 14em 0; */
 		text-align: center;
 		color: #fff;
 	}

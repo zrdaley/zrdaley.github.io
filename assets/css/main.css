@@ -2003,10 +2003,7 @@
 	#header {
 		position: relative;
 		margin: 0;
-		background-size: auto, cover;
-		background-position: top left, center center;
-		background-repeat: repeat, no-repeat;
-		/* padding: 14em 0 14em 0; */
+		padding: 14em 0 14em 0;
 		text-align: center;
 		color: #fff;
 	}
@@ -2040,7 +2037,7 @@
 		.main > header {
 			background: #fff;
 			text-align: center;
-			padding: 5em 0 5em 0;
+			padding: 20em 0 5em 0;
 			margin: 0;
 		}
 
@@ -2300,7 +2297,7 @@
 		/* Header */
 
 			#header {
-				padding: 6em 20px 6em 20px;
+				padding: 40% 20px 10% 20px;
 			}
 
 				#header > header {
